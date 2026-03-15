@@ -2,7 +2,7 @@ package main
 
 import (
 	"ecommecer/dependencias"
-	"ecommecer/modules/products"
+	"ecommecer/internal/products"
 	"log"
 	"time"
 

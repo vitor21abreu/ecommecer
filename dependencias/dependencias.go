@@ -1,8 +1,8 @@
 package dependencias
 
 import (
-	"ecommecer/database"
-	"ecommecer/modules/products"
+	"ecommecer/pkg/database"
+	"ecommecer/internal/products"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.uber.org/dig"
